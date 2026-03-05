@@ -1,0 +1,5 @@
+Alice Johnson
+M.Tech in Data Science
+Skills: Python, Machine Learning, NLP, Data Visualization
+Experience: 3 years at ABC Tech
+Projects: AI Chatbot, Stock Trend Predictor

@@ -1,0 +1,5 @@
+Bob Smith
+B.Tech in Computer Science
+Skills: Python, AI, Deep Learning, Pandas
+Experience: 2 years at XYZ Solutions
+Projects: Resume Analyzer AI, Mood-Based Music Recommender

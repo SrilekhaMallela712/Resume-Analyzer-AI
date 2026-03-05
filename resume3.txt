@@ -1,0 +1,5 @@
+David Williams
+B.Tech in Computer Science
+Skills: Python, AI, Deep Learning, Data Analysis, Pandas
+Experience: 4 years at Tech Innovators
+Projects: Resume Analyzer AI, Personal Finance Advisor AI, Fake News Detector
